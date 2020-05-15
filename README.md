@@ -1,1 +1,1 @@
-# box-class-game
+# Box Class
